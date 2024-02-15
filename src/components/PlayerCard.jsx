@@ -1,7 +1,7 @@
 import React from "react";
 import { useNavigate } from "react-router-dom";
 import { deletePlayer } from "../api";
-import styles from "../css/PlayerCard.css";
+
 
 
 export default function PlayerCard({ player }) {
